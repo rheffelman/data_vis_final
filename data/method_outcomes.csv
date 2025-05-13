@@ -1,0 +1,11 @@
+Method,Candidate1,Score1,Candidate2,Score2,Candidate3,Score3,Candidate4,Score4
+Plurality,Poliquin,133993.00,Golden,131822.00,Bond,16415.00,Hoar,6782.00
+Majority,Bond,0.00,Golden,0.00,Hoar,0.00,Poliquin,0.00
+Borda,Poliquin,447466.00,Golden,444112.00,Bond,226203.00,Hoar,163804.00
+IRV,Golden,4.00,Poliquin,3.00,Bond,2.00,Hoar,1.00
+PluralityWithRunoff,Golden,142664.00,Poliquin,139238.00,Bond,0.00,Hoar,0.00
+Copeland,Golden,3.00,Poliquin,2.00,Bond,1.00,Hoar,0.00
+Dowdall,Poliquin,158508.10,Golden,151989.83,Bond,66191.67,Hoar,50707.50
+Minimax,Golden,142664.00,Poliquin,139238.00,Bond,49385.00,Hoar,43118.00
+Baldwin,Poliquin,4.00,Golden,3.00,Bond,2.00,Hoar,1.00
+CopelandBorda,Golden,206461.00,Poliquin,130946.00,Bond,43131.00,Hoar,0.00
