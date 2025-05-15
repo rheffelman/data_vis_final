@@ -1,0 +1,57 @@
+Subset_Label,Candidate,In_Subset,Times_Not_Ranked
+Hoar,Bond,0,170395
+Hoar,Golden,0,170395
+Hoar,Hoar,1,170395
+Hoar,Poliquin,0,170395
+Bond,Bond,1,158547
+Bond,Golden,0,158547
+Bond,Hoar,0,158547
+Bond,Poliquin,0,158547
+"Bond, Hoar",Bond,1,148232
+"Bond, Hoar",Golden,0,148232
+"Bond, Hoar",Hoar,1,148232
+"Bond, Hoar",Poliquin,0,148232
+Golden,Bond,0,109692
+Golden,Golden,1,109692
+Golden,Hoar,0,109692
+Golden,Poliquin,0,109692
+Poliquin,Bond,0,100522
+Poliquin,Golden,0,100522
+Poliquin,Hoar,0,100522
+Poliquin,Poliquin,1,100522
+"Golden, Hoar",Bond,0,97336
+"Golden, Hoar",Golden,1,97336
+"Golden, Hoar",Hoar,1,97336
+"Golden, Hoar",Poliquin,0,97336
+"Bond, Golden",Bond,1,94921
+"Bond, Golden",Golden,1,94921
+"Bond, Golden",Hoar,0,94921
+"Bond, Golden",Poliquin,0,94921
+"Bond, Golden, Hoar",Bond,1,89669
+"Bond, Golden, Hoar",Golden,1,89669
+"Bond, Golden, Hoar",Hoar,1,89669
+"Bond, Golden, Hoar",Poliquin,0,89669
+"Hoar, Poliquin",Bond,0,67710
+"Hoar, Poliquin",Golden,0,67710
+"Hoar, Poliquin",Hoar,1,67710
+"Hoar, Poliquin",Poliquin,1,67710
+"Bond, Poliquin",Bond,1,57394
+"Bond, Poliquin",Golden,0,57394
+"Bond, Poliquin",Hoar,0,57394
+"Bond, Poliquin",Poliquin,1,57394
+"Bond, Hoar, Poliquin",Bond,1,51673
+"Bond, Hoar, Poliquin",Golden,0,51673
+"Bond, Hoar, Poliquin",Hoar,1,51673
+"Bond, Hoar, Poliquin",Poliquin,1,51673
+"Golden, Poliquin",Bond,0,8247
+"Golden, Poliquin",Golden,1,8247
+"Golden, Poliquin",Hoar,0,8247
+"Golden, Poliquin",Poliquin,1,8247
+"Golden, Hoar, Poliquin",Bond,0,4401
+"Golden, Hoar, Poliquin",Golden,1,4401
+"Golden, Hoar, Poliquin",Hoar,1,4401
+"Golden, Hoar, Poliquin",Poliquin,1,4401
+"Bond, Golden, Poliquin",Bond,1,2180
+"Bond, Golden, Poliquin",Golden,1,2180
+"Bond, Golden, Poliquin",Hoar,0,2180
+"Bond, Golden, Poliquin",Poliquin,1,2180

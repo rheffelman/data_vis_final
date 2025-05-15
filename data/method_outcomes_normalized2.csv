@@ -15,10 +15,6 @@ IRV,Golden,4.0,1.0
 IRV,Poliquin,3.0,0.6666666666666666
 IRV,Bond,2.0,0.3333333333333333
 IRV,Hoar,1.0,0.0
-PluralityWithRunoff,Golden,142664.0,1.0
-PluralityWithRunoff,Poliquin,139238.0,0.9759855324398586
-PluralityWithRunoff,Bond,0.0,0.0
-PluralityWithRunoff,Hoar,0.0,0.0
 Copeland,Golden,3.0,1.0
 Copeland,Poliquin,2.0,0.6666666666666666
 Copeland,Bond,1.0,0.3333333333333333
